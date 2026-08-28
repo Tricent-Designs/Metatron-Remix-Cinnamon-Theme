@@ -23,7 +23,7 @@ An exclusive, fully overhauled theme for Linux Mint and the Cinnamon desktop env
 
 ## 🛠️ Development & Customization
 
-This theme leverages custom shell scripts to compile the layout, alongside detailed Cinnamon CSS and GTK styling. Feel free to fork and contribute if you'd like to help improve the codebase, refine the CSS, or add new features!
+Feel free to fork and contribute if you'd like to help improve the codebase, refine the CSS, or add new features!
 
 ### This theme is based on Mint-Y-Themes and Zorin-Desktop-Themes.
 
