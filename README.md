@@ -25,7 +25,9 @@ An exclusive, fully overhauled theme for Linux Mint and the Cinnamon desktop env
 
 Feel free to fork and contribute if you'd like to help improve the codebase, refine the CSS, or add new features!
 
-### This theme is based on Mint-Y-Themes and Zorin-Desktop-Themes.
+This theme was developed for Linux Mint 22 "Zena". If you are using a different version, please ensure that the Yaru icon themes and the DMZ cursor themes are installed so that the theme works correctly.
+
+And this theme is based on Mint-Y-Themes and Zorin-Desktop-Themes.
 
 ---
 *Created by Tricent-Designs.*
