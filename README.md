@@ -21,6 +21,9 @@ An exclusive, fully overhauled theme for Linux Mint and the Cinnamon desktop env
 ### Color Variations in Action
 <img width="1306" height="816" alt="Metatron-Remix_preview_2" src="https://github.com/user-attachments/assets/5111cc0f-a0d6-4949-8e9e-0118121870bc" />
 
+## 🖼️ Check out the Wallpapers!
+<img width="1376" height="774" alt="Metatron-Remix-Yellow-4K" src="https://github.com/user-attachments/assets/d07d2fcb-03a7-4545-abbe-6878b2f129b6" />
+
 ## 🛠️ Development & Customization
 
 Feel free to fork and contribute if you'd like to help improve the codebase, refine the CSS, or add new features!
