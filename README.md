@@ -1,9 +1,9 @@
 # Metatron Remix - Cinnamon Theme
 
-<img width="1024" height="1024" alt="Metatron-Remix" src="https://github.com/user-attachments/assets/87d06c89-c674-4607-be21-e5fe10252824" />
-
 An exclusive, fully overhauled theme for Linux Mint and the Cinnamon desktop environment. 
 **Metatron Remix** takes the original Metatron theme to the next level, offering deep customization, refined GTK CSS styling, and multiple color variants to perfectly match your setup.
+
+<img width="524" height="524" alt="Metatron-Remix" src="https://github.com/user-attachments/assets/87d06c89-c674-4607-be21-e5fe10252824" />
 
 ## 🎨 Features
 
